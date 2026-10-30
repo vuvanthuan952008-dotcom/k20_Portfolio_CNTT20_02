@@ -15,9 +15,9 @@
 
 - Trang/thao tác gặp lỗi: [HTML,không có sự liên kết giữa css và html ]
 - Mong muốn và hiện tượng thực tế: [Mong muốn có sự kiên kết giữa htmlvaf css,]
-- Dữ kiện đã kiểm tra (cấu trúc tệp, Request URL, Status…): [ ... ]
-- Tôi nghi nguyên nhân là: [ ... ]
-- Vì sao tôi nhận định như vậy: [ ... ]
+- Dữ kiện đã kiểm tra (cấu trúc tệp, Request URL, Status…): [https://vuvanthuan952008-dotcom.github.io/k20_Portfolio_CNTT20_02/], cấu trúc [main],https://vuvanthuan952008-dotcom.github.io/k20_Portfolio_CNTT20_02, Status [(failed]. 
+- Tôi nghi nguyên nhân là: [ Sai css ]
+- Vì sao tôi nhận định như vậy: [ vì chưa có sự liên kết  ]
 
 ## 2. Tôi hỏi AI và nhận được gợi ý
 
