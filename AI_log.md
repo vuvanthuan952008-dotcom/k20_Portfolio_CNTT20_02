@@ -4,17 +4,17 @@
 
 ## Thông tin sinh viên
 
-- Họ và tên: [ ... ]
-- Mã sinh viên – Lớp: [ ... ]
-- Ngày thực hiện: [ ... ]
-- Link repository: [ ... ]
-- URL website: [ ... ]
-- Tình huống: [ ] Website của tôi  [ ] Repo luyện của giảng viên
+- Họ và tên: [ Vũ Văn Thuận ]
+- Mã sinh viên – Lớp: [2071020174 ]
+- Ngày thực hiện: [ 30/10/2026]
+- Link repository: [https://github.com/vuvanthuan952008-dotcom/k20_Portfolio_CNTT20_02/commits?author=vuvanthuan952008-dotcom]
+- URL website: [https://vuvanthuan952008-dotcom.github.io/k20_Portfolio_CNTT20_02/]
+- Tình huống: [Sai link liên kết với trang css] Website của tôi  [https://github.com] Repo luyện của giảng viên
 
 ## 1. Nhận định của tôi trước khi hỏi AI
 
-- Trang/thao tác gặp lỗi: [ ... ]
-- Mong muốn và hiện tượng thực tế: [ ... ]
+- Trang/thao tác gặp lỗi: [HTML,không có sự liên kết giữa css và html ]
+- Mong muốn và hiện tượng thực tế: [Mong muốn có sự kiên kết giữa htmlvaf css,]
 - Dữ kiện đã kiểm tra (cấu trúc tệp, Request URL, Status…): [ ... ]
 - Tôi nghi nguyên nhân là: [ ... ]
 - Vì sao tôi nhận định như vậy: [ ... ]
@@ -55,8 +55,6 @@
 - Căn cứ để đối chiếu (URL tệp, commit, đường dẫn ảnh chụp hoặc dữ kiện quan sát): [ ... ]
 
 ## 5. Kết luận
-
-- [ ] Đã xử lý được  [ ] Xử lý được một phần  [ ] Chưa xử lý được
 - Điều tôi rút ra hoặc việc cần làm tiếp: [ ... ]
 
 ---
